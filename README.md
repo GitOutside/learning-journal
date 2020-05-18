@@ -7,4 +7,4 @@ Growth mindset is the belief that a person can learn whatever they put their min
 3. **Every** successful coder started out just like I am, right now.
 
 Here is the link to my GitHub repo
-[link] (https://github.com/GitOutside/learning-journal/)
+[link] (https://gitoutside.github.io/learning-journal/)
