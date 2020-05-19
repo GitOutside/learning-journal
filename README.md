@@ -1,4 +1,4 @@
-# Learning-Journal-2
+# Learning-Journal
 
 
 ## Colleen's Learning Journal for Codefellows 102
