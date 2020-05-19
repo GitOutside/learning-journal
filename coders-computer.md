@@ -1,8 +1,33 @@
-So, you think you might want to try coding. Well, lemme tell you a little about what I learned in my first class today. 
-First of all, to communicate with a computer, you will need to learn its language. The language is coding, and there are various iterations of code that are used for different things.
-The basics of code start with learning Hyper-Text Markup Language, or HTML. There is a variation of this language that is used in the GitHub environment, called Markdown.
-When you use either of these languages, you must use .html or .md so that the computer can understand what you've typed.
+# Text Editors in a Nutshell
+Text editors allow you to write and manage the text that is used by developers to create websites. There are bare-bones options, but there are also options that have useful features.
+The features allow coders to be more efficient and productive. Some of these features are:
+- code completion
+- syntax highlighting
+- themes
+- extensions
 
-Of course, this is only the content of a webpage. The real fun starts when you get to start programming so that the website becomes interactive, and can do all sorts of cool things.
+There are text editors that come with a computer:
+- Text Edit (mac)
+- Notepad (windows)
 
-I think the most important thing that I learned today is that if I really want to learn this new language, I **can**! With a little perserverance and a lot of coffee, I can succeed!
+There are some third party options as well, including:
+- Notepad \++
+- Text Wragnler with BB Edit
+- VSCode
+- Atom 
+- Brackets
+- Sublime Text
+
+### Options
+- Text Editors
+  - Edit text
+  - Managestext
+  - Manages files
+  
+- IntegratedDevelopmentEnvironment (IDE)
+  - Text editor
+  - Filemanager
+  - Compiler
+  - Debugger
+  
+  It's *important* to consider all the options as a developer because you’ll want to accomplish more with minimal effort. You want a text editor that can grow with you as your needs grow .
