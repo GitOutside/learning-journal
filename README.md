@@ -14,5 +14,7 @@ Here is the link to my GitHub repo
 [link] (https://gitoutside.github.io/learning-journal/)
 
 # Table of Contents
-- The Coder's Computer
-- Cloud Revisions
+- [The Coder's Computer](coders-computer.md)
+- [Cloud Revisions](cloud-revisions.md)
+
+
