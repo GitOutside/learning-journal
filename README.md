@@ -16,5 +16,5 @@ Here is the link to my GitHub repo
 # Table of Contents
 - [The Coder's Computer](coders-computer.md)
 - [Cloud Revisions](cloud-revisions.md)
-
-
+- [HTML Structure](structure.md)
+- [CSS and Design](CSS-design.md)
