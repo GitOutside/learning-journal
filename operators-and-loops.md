@@ -29,9 +29,18 @@ compare results allow the comparison of more than one *comparison operator*
 
 #### For loop
 - runs finite number of times
-
+- uses a counter as a condition
+- **initialization**
+  - only created first time loop runs
+- **Condition**
+  - runs until counter reaches specified number
+- **update**
+  -  adds one each time
 ### WHile loop
 - runs until false returned
+- 
 
 ### Do while loop
 - like while, but always runs at least once, regardless
+
+
