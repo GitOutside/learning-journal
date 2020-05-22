@@ -19,3 +19,4 @@ Here is the link to my GitHub repo
 - [HTML Structure](structure.md)
 - [CSS and Design](CSS-design.md)
 - [Programming With javaScript](programming-with-javascript.md)
+- [Ooperators and Loops](operators-and-loops.md)
